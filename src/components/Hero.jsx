@@ -26,8 +26,7 @@ function Hero() {
   </a>
 </div>
 
-<a
-  href="/Sutharsanam_Resume.pdf"
+ <a href="/FUTURE_FS_01/Sutharsanam_Resume.pdf" download>
   download="Sutharsanam_Resume.pdf"
 >
   <button>Download Resume</button>
